@@ -1,10 +1,10 @@
 # Kanye Quest
 
-Kanye Quest is a top down shooter inspired 99% by the pun and 1% by the eccentric hip hop artist. This is a game built in Java with the graphics2d library. It was created for the ICS4U final project in June of 2017.
+Kanye Quest is a top down shooter inspired 99% by the pun and 1% by the eccentric hip hop artist. This is a game built in Java with the graphics2d library. It was created for the ICS4U final project in June of 2017, by Alex Xie in collaboration with Prushoth Vivekanantha.
 
 ### Features
 * A wide range of weapons (pistols, rocket launchers, bows, etc - even a flamethrower!)
-* Different enemy types (with *pretty rough* pathfinding)
+* Different enemy types (with *admittedly pretty rough* pathfinding)
 * Handcrafted map (with more levels coming later!)
 * Minimap
 * Heads-Up Display
