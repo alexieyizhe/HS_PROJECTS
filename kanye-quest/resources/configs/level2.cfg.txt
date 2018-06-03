@@ -1,0 +1,15 @@
+0 #index of starting weapon
+airport.png #starting map name
+
+
+yes #fans?
+200 #fan spawnrate
+x1,y1 x2,y2 x3,y3 x4,y4 #spawn positions
+
+yes #paparazzi?
+500
+x1,y1 x2,y2 x3,y3 x4,y4 #spawn positions
+
+no #police?
+0
+x1,y1 x2,y2 x3,y3 x4,y4 #spawn positions
