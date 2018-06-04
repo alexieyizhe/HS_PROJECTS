@@ -1,0 +1,5 @@
+a
+Gyarados,80,Water,Leaf,Earth,2,Dragon Rage,30,50, ,Bubblebeam,40,40,Disable
+Voltorb,40,Electric, ,Earth,2,Spark,10,20, ,Explode,40,40,Wild Storm
+Mankey,40,Earth, ,Fighting,2,Fury Swipes,20,60,Wild Card,Pranks,0,0,Recharge
+Rhyhorn,70,Earth,Electric,Fighting,2,Leer,30,0,Stun,Horn Attack,30,40, 

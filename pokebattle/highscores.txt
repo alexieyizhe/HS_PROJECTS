@@ -1,0 +1,5 @@
+1 Hannah 24 4 Yes
+1 Sridhar 24 1 Yes
+2 Sofija 24 3 Yes
+3 Lydia 18 4 No
+4 Prushoth 10 4 No

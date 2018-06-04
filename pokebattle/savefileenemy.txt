@@ -1,0 +1,23 @@
+Nidoran,40,Leaf, ,Fire,1,Horn Hazard,30,40,Wild Card
+Onix,70,Earth,Electric,Water,2,Rock Throw,10,20,Stun,Harden,20,0,Disable
+Diglett,30,Earth,Leaf,Electric,2,Dig,10,10, ,Mud Slap,20,30, 
+Wooper,50,Water,Electric,Leaf,2,Amnesia,30,0,Disable,Slam,20,30, 
+Totodile,50,Water, ,Leaf,2,Leer,30,0,Stun,Fury Swipes,20,40, 
+Seel,60,Water, ,Electric,1,Headbutt,30,30,Stun
+Staryu,40,Water, ,Electric,1,Slap,20,20, 
+Magikarp,30,Water, ,Electric,2,Tackle,20,30, ,Flail,20,15,Wild Storm
+Tangela,50,Leaf, ,Fire,2,Bind,25,20,Stun,Poisonpowder,30,40,Wild Card
+Pinisir,60,Leaf, ,Fire,2,Irongrip,20,20,Stun,Guillotine,40,50,Wild Card
+Venonat,40,Leaf, ,Fire,2,Stun Spore,20,20,Stun,Leech Life,0,15,Recharge
+Bulbasaur,40,Leaf, ,Fire,1,Leech Seed,0,0,Recharge
+Cyndaquil,50,Fire, ,Water,2,Fireworks,20,30, ,Quick Attack,20,15,Wild Storm
+Magmar,50,Fire, ,Water,2,Fire Punch,30,35, ,Flamethrower,30,50,Wild Card
+Growlithe,60,Fire, ,Water,1,Flare,20,30, 
+Vulpix,50,Fire, ,Water,1,Confuse Ray,20,0,Stun
+Charmander,50,Fire, ,Water,2,Scratch,10,15, ,Ember,30,40,Wild Card
+Mareep,40,Electric, ,Fire,2,Static Electricity,20,0,Stun,Thundershock,20,25,Stun
+Pikachu,50,Electric, ,Fire,2,Quick Attack,10,20, ,Agility,30,0,Disable
+Pidgey,40,Fighting,Earth,Electric,1,Whirlwind,15,20,Stun
+Spearow,50,Fighting,Earth,Electric,2,Peck,10,10, ,Mirror Move,20,30,Wild Card
+Doduo,50,Fighting,Earth,Electric,1,Fury Attack,20,40,Wild Card
+Jigglypuff,60,Fighting,Fighting,Fire,3,Lullaby,30,10,Stun,Pound,20,25, ,Sing,20,10,Disable
