@@ -1,0 +1,17 @@
+BUGS AND HELP NEEDED
+- click on title screen registers as pencil draw in main program
+- how do I change the color picker's white interior color to whichever color is picked?
+- how do I only click on the color picker once and have it revert back to last picked tool?
+- how do I only register a click once? (can solve ques 1 and 3 with this)
+- how to register any keyboard button press to enter paint from title screen?
+- how to connect all the circles from brush?
+- draw more circles from spray paint at once? (already tried more set at statements but it draws in patter if i do that)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
